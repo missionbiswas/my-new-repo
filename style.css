@@ -6,3 +6,8 @@ h1 {
     background-color: black;
     color: black;
 }
+
+img {
+    height: 300px;
+    width: 300px;
+}
